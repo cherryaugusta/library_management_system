@@ -75,7 +75,7 @@ This project is designed **for educational purposes** only. It is a simple imple
 
 This project is also part of a **portfolio showcase** to demonstrate my understanding of OOP principles and Python programming. It is not intended for commercial use or professional deployment.
 
-## Authors
+## Author
 
 - **Cherry Augusta** - [GitHub Profile Link](https://github.com/cherryaugusta)
 
