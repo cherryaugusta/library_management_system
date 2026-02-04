@@ -37,9 +37,9 @@ This is a simple Library Management System designed using Object-Oriented Progra
 
 ```
 Books in the Library:
-- The Catcher in the Rye by J.D. Salinger (ISBN: 12345)
-- 1984 by George Orwell (ISBN: 67890)
-- To Kill a Mockingbird by Harper Lee (ISBN: 11223)
+- The Catcher in the Rye by J.D. Salinger (ISBN: [ISBN Number])
+- 1984 by George Orwell (ISBN: [ISBN Number])
+- To Kill a Mockingbird by Harper Lee (ISBN: [ISBN Number])
 
 Library Members:
 - Alice (Member ID: 1)
@@ -49,10 +49,10 @@ Alice successfully borrowed The Catcher in the Rye
 Bob successfully borrowed 1984
 
 Alice's Borrowed Books:
-- The Catcher in the Rye by J.D. Salinger (ISBN: 12345)
+- The Catcher in the Rye by J.D. Salinger (ISBN: [ISBN Number])
 
 Bob's Borrowed Books:
-- 1984 by George Orwell (ISBN: 67890)
+- 1984 by George Orwell (ISBN: [ISBN Number])
 ```
 
 ## OOP Concepts Demonstrated
@@ -81,4 +81,4 @@ This project is also part of a **portfolio showcase** to demonstrate my understa
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/cherryaugusta/library_management_system/blob/main/LICENSE) file for details.
